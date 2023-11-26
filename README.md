@@ -8,3 +8,4 @@ My solutions for the AoC of 2023! Languages im going to use here are randomly ch
 - Task 13-18 | Rust, choosed by [Zabuzard](https://github.com/Zabuzard)
 - Task 19-24 | C#, choosed by [Zabuzard](https://github.com/Zabuzard)
 - Task 25-30 | C, choosed by [legoaggelos](https://github.com/legoaggelos)
+- Task 31-36 | Zig, choosed by ryan
