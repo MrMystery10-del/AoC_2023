@@ -8,7 +8,7 @@ My solutions for the AoC of 2023! Languages im going to use here are randomly ch
 - Puzzle 9-12 | Rust, choosed by [Zabuzard](https://github.com/Zabuzard)
 - Puzzle 13-16 | C#, choosed by [Zabuzard](https://github.com/Zabuzard)
 - Puzzle 17-20 | C, choosed by [legoaggelos](https://github.com/legoaggelos)
-- Puzzle 21-50 | Unknown
+- Puzzle 21-25 | Unknown
 
 ## Puzzle opinion
 ### Puzzle 1
