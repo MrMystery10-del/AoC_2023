@@ -21,3 +21,8 @@ Way easier than Day 1, needed to read the first part like 3 times to understand 
 but found the correct solution first try.
 For Part 2 i literally had to change 1 single line and had a working solution because of my object approach which is
 prob pretty bad because i have no clue how to work with Kotlin efficient but i have a solution and i dont care if its fast or not
+
+### Puzzle 3
+The part 1 did take bit time because i didnt thought about when the number is on the end of line, my solution were adding the part-number
+to the list only when the next symbol is not a digit which well... messed the result up.
+Overall after fixing it this day was not hard and part 2 i did also completed in like 2 minutes, only some lines need to be changed
