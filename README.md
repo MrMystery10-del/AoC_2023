@@ -1,7 +1,6 @@
 # AoC_2023
 My solutions for the AoC of 2023! Languages im going to use here are randomly choosed by the [TogetherJava](https://discord.gg/together-java-272761734820003841) community!
 
-
 ## Puzzle list by language
 - Puzzle 1-4 | Kotlin, choosed by [Zabuzard](https://github.com/Zabuzard)
 - Puzzle 5-8 | Go, choosed by [Zabuzard](https://github.com/Zabuzard)
@@ -26,3 +25,9 @@ prob pretty bad because i have no clue how to work with Kotlin efficient but i h
 The part 1 did take bit time because i didnt thought about when the number is on the end of line, my solution were adding the part-number
 to the list only when the next symbol is not a digit which well... messed the result up.
 Overall after fixing it this day was not hard and part 2 i did also completed in like 2 minutes, only some lines need to be changed
+
+### Puzzle 4
+Sadly finished this solution one day after the puzzle day.
+My brain wasnt braining, because i had an exam in parallel which messed me up. I hate my solution and hate that its 5pm and i still not 
+started with day 5 puzzle in which i also did set me the challenge to finish day 5-8 in Go and i havnt even learned Go yet so everything SUCKS.
+But trust me, im gonna catch up sooner or later :P
