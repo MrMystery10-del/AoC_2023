@@ -31,3 +31,8 @@ Sadly finished this solution one day after the puzzle day.
 My brain wasnt braining, because i had an exam in parallel which messed me up. I hate my solution and hate that its 5pm and i still not 
 started with day 5 puzzle in which i also did set me the challenge to finish day 5-8 in Go and i havnt even learned Go yet so everything SUCKS.
 But trust me, im gonna catch up sooner or later :P
+
+### Puzzle 5
+Sadly currently only solved part 1. Part 2 is already implemented but gives the wrong result currently.
+Overall this task isnt really hard but i still wonder why part 2 does not giv correct result on main input but does give
+correct result on example input.
