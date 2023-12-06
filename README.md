@@ -38,3 +38,6 @@ It was easy and i had a working solution first try but i just didnt knew it was 
 but not for the main input. The issue was that it somehow had the correct result + 1 which was of course wrong when i did submit. So the
 solution was just to add -1 and everything is working now. I still dont know why but it is how it is and did cost me around 5 hours starring
 on my screen and not understanding what is wrong with this brute-force approach
+
+### Puzzle 6
+It was so freaking easy, it did take me literally around 10 minutes for both parts i wonder why that wasnt day 1
