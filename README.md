@@ -33,6 +33,8 @@ started with day 5 puzzle in which i also did set me the challenge to finish day
 But trust me, im gonna catch up sooner or later :P
 
 ### Puzzle 5
-Sadly currently only solved part 1. Part 2 is already implemented but gives the wrong result currently.
-Overall this task isnt really hard but i still wonder why part 2 does not giv correct result on main input but does give
-correct result on example input.
+This puzzle did take me a lot of time... This puzzle overall wasnt hard and i did solved part 1, but when it came to part 2, oh boyy...
+It was easy and i had a working solution first try but i just didnt knew it was the correct solution, it did work for the example input
+but not for the main input. The issue was that it somehow had the correct result + 1 which was of course wrong when i did submit. So the
+solution was just to add -1 and everything is working now. I still dont know why but it is how it is and did cost me around 5 hours starring
+on my screen and not understanding what is wrong with this brute-force approach

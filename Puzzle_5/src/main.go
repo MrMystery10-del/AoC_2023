@@ -83,7 +83,7 @@ func part2() int {
 			}
 		}
 	}
-	return smallestSeed
+	return smallestSeed - 1
 }
 
 func getSeeds() []int {
