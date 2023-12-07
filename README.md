@@ -41,3 +41,7 @@ on my screen and not understanding what is wrong with this brute-force approach
 
 ### Puzzle 6
 It was so freaking easy, it did take me literally around 10 minutes for both parts i wonder why that wasnt day 1
+
+### Puzzle 7
+This puzzle was long.... not hard but long... pretty time consuming. Also did somehow miss read and thought that a joker in part 2
+does have the value of 2 and not weaker than 2 which did cost me bit of frustration time.
