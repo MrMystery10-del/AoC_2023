@@ -11,37 +11,26 @@ My solutions for the AoC of 2023! Languages im going to use here are randomly ch
 
 ## Puzzle opinion
 ### Puzzle 1
-The first part was pretty easy eventho i never used Kotlin before, the implementation of my ideas in Kotlin were very fast.
-The Part 2 was a pain in the ass, because they not mentioned that twone is merged should also be detected as 21 and not just 2 which
-messed up the redex i used before
+I found Kotlin easy to learn and use, even though it was my first time. I could implement my ideas quickly with it.
+The second part was tricky, though. They didn't tell us that twone should count as 21, not just 2. That messed up the regex I had before.
 
 ### Puzzle 2
-Way easier than Day 1, needed to read the first part like 3 times to understand what the puzzle is expecting from me
-but found the correct solution first try.
-For Part 2 i literally had to change 1 single line and had a working solution because of my object approach which is
-prob pretty bad because i have no clue how to work with Kotlin efficient but i have a solution and i dont care if its fast or not
+I found Day 2 much simpler than Day 1. I had to read the instructions several times to figure out what the puzzle wanted from me, but I got the right answer on my first attempt. For Part 2, I only needed to modify one line of code and it worked. I used an object-oriented approach, which might not be very efficient in Kotlin, but I don't mind as long as it solves the problem.
 
 ### Puzzle 3
-The part 1 did take bit time because i didnt thought about when the number is on the end of line, my solution were adding the part-number
-to the list only when the next symbol is not a digit which well... messed the result up.
-Overall after fixing it this day was not hard and part 2 i did also completed in like 2 minutes, only some lines need to be changed
+I spent some time on part 1 because I didn't consider the case when the number is at the end of the line. My initial solution was to add the part-number to the list only if the next symbol was not a digit, but that didn't work well. Part 2 was much easier and I finished it in about 2 minutes. I just had to change a few lines of code.
 
 ### Puzzle 4
-Sadly finished this solution one day after the puzzle day.
-My brain wasnt braining, because i had an exam in parallel which messed me up. I hate my solution and hate that its 5pm and i still not 
-started with day 5 puzzle in which i also did set me the challenge to finish day 5-8 in Go and i havnt even learned Go yet so everything SUCKS.
-But trust me, im gonna catch up sooner or later :P
+I missed the deadline for this solution by a day. I was too distracted by an exam that I had to take. I'm not happy with my solution and I feel mad because I haven't started day 5 puzzle yet. I also want to learn Go and use it for day 5-8 puzzles, but I don't know anything about it. It's a tough situation, but I'm determined to catch up eventually :)
 
 ### Puzzle 5
-This puzzle did take me a lot of time... This puzzle overall wasnt hard and i did solved part 1, but when it came to part 2, oh boyy...
-It was easy and i had a working solution first try but i just didnt knew it was the correct solution, it did work for the example input
-but not for the main input. The issue was that it somehow had the correct result + 1 which was of course wrong when i did submit. So the
-solution was just to add -1 and everything is working now. I still dont know why but it is how it is and did cost me around 5 hours starring
-on my screen and not understanding what is wrong with this brute-force approach
+I spent a lot of time on this puzzle... It wasn't too hard and I solved part 1 easily, but part 2 was a different story. I had a solution that worked on the example input, but it failed on the main input. The problem was that it gave me the right answer plus one, which was obviously wrong. I don't know why that happened, but I fixed it by subtracting one from the result. That took me about five hours of staring at my screen and wondering what was wrong with my brute-force approach.
 
 ### Puzzle 6
-It was so freaking easy, it did take me literally around 10 minutes for both parts i wonder why that wasnt day 1
+I breezed through the whole thing in no time, just 10 minutes for both parts. It felt like a piece of cake, maybe it should have been the first day's challenge.
 
 ### Puzzle 7
-This puzzle was long.... not hard but long... pretty time consuming. Also did somehow miss read and thought that a joker in part 2
-does have the value of 2 and not weaker than 2 which did cost me bit of frustration time.
+This puzzle took me a while to finish. It wasn't too difficult, but it required a lot of patience. I also made a silly mistake and assumed that a joker in part 2 was stronger than 2, not weaker. That confused me for a bit and wasted some time.
+
+### Puzzle 8 
+For the first part, I used brute force and it worked pretty fast, but then I got stuck on part 2. I tried brute force again, but after 20 minutes of running, I realized it would take forever. Then I noticed that it always took the same number of steps to reach ..Z. So I used my brain and figured out that I could just multiply all the values to get a result that was divisible by all the results to ..Z. But that was wrong because it wanted the fastest way to reach ..Z on all paths. Then I remembered that I could simplify the result, but since I didn't know how to code that, I just googled a lcm function implementation lol.
