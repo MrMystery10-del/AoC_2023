@@ -34,3 +34,6 @@ This puzzle took me a while to finish. It wasn't too difficult, but it required 
 
 ### Puzzle 8 
 For the first part, I used brute force and it worked pretty fast, but then I got stuck on part 2. I tried brute force again, but after 20 minutes of running, I realized it would take forever. Then I noticed that it always took the same number of steps to reach ..Z. So I used my brain and figured out that I could just multiply all the values to get a result that was divisible by all the results to ..Z. But that was wrong because it wanted the fastest way to reach ..Z on all paths. Then I remembered that I could simplify the result, but since I didn't know how to code that, I just googled a lcm function implementation lol.
+
+### Puzzle 9
+Today is the first day of my four-day Rust puzzles. Fortunately, I already know Rust, so I don’t have to learn a new language in a hurry like I did with Kotlin and Go for previous puzzles. Today’s puzzle was easy but enjoyable, and I really liked it. Rust is always fun to code with. For part 2, I literally only had to change two lines: from vector.last() to vector.first(), and the return statement of the recursive inner function.
